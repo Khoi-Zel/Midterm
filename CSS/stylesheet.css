@@ -48,7 +48,7 @@ body{
 
 .list{
     background-color: #9A8C98;
-    list-style: outside;
+    list-style-position:outside;
 }
 
 .img2{
@@ -57,7 +57,7 @@ body{
 }
 
 .list1{
-    list-style:disc;
+    list-style:"- ";
 }
 
 
