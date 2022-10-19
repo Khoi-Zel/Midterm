@@ -4,35 +4,23 @@ body{
 .link{
     background-color: #F2E9E4;
     border-bottom: 5px ridge gray;
-    position:absolute;
-    top: 20px;
-    right: 0px;
-    left:0px;
-}
-.link1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     list-style: none;
-    position:relative;
-    bottom: 10px;
-}
-.link2{
-    text-align: center;
-    font-family: 'Montserrat', sans-serif;
-    list-style: none;
-    position:relative;
-    bottom: 10px;
+    padding: 10PX 0PX 10PX 0PX;
+    margin: 0px;
+    position:static;
 }
 
-link a:link{
+.link a:link{
     color: darkslateblue;
 }
 
-link a:visited{
+.link a:visited{
     color: rgb(100, 8, 80);
 }
 
-.heading {
+.heading{
     text-align: center;
     font-family: 'Indie Flower', cursive;
 }
@@ -42,7 +30,6 @@ link a:visited{
 }
 
 .p1{
-    text-align:center;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -51,3 +38,17 @@ link a:visited{
     margin-left: auto;
     margin-right: auto;
 }
+
+.heading1{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+.list{
+    background-color: #9A8C98;
+    list-style: outside;
+}
+
+
+
+
