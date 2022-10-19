@@ -9,7 +9,9 @@ body{
     list-style: none;
     padding: 10PX 0PX 10PX 0PX;
     margin: 0px;
-    position:static;
+    position:sticky;
+    width: 100%;
+    top: 0px;
 }
 
 .link a:link{
@@ -50,9 +52,12 @@ body{
 }
 
 .img2{
-    
     display: block;
     margin-left: auto;
+}
+
+.list1{
+    list-style:disc;
 }
 
 
