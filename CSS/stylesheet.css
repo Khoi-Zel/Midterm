@@ -1,0 +1,12 @@
+.link {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+link a:link{
+    color: darkslateblue;
+}
+
+link a:visited{
+    color: rgb(100, 8, 80);
+}
